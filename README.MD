@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # change this
-      - uses: AtomiCloud/actions.flutter-cache@v1
+      - uses: AtomiCloud/actions.cache-flutter@v1
 ```
 
 <!-- prettier-ignore-start -->
